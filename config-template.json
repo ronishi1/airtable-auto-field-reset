@@ -1,0 +1,19 @@
+{
+  "apiKey":"YOUR API KEY HERE",
+  "baseURL":"YOUR BASE URL HERE",
+  "tables":[
+    {
+      "name":"TABLENAME 1",
+      "fields":{
+        "FIELD 1":"VALUE OF FIELD1"
+      }
+    },
+    {
+      "name":"TABLENAME 2",
+      "fields":{
+        "FIELD 1":"VALUE OF FIELD1",
+        "FIELD 2":"VALUE OF FIELD2"
+      }
+    }
+  ]
+}
